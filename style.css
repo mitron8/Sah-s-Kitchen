@@ -254,7 +254,7 @@ video{
 
 }
 #page4{
-    min-height: 90vh;
+    min-height: 70vh;
     width: 100%;
     display: flex;
     padding: 0 40px;
@@ -270,10 +270,12 @@ video{
     padding-top: 10px;
 }
 footer {
+  min-height: 50vw;
   background-color: #222;
   color: #fff;
   text-align: center;
   padding: 20px 10px;
+  align-items: center;
 }
 
 footer a {
